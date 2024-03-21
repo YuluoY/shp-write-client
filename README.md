@@ -10,7 +10,7 @@ ZIP file downloads in-browser.
 
 For node.js or [browserify](https://github.com/substack/node-browserify)
 
-    npm install --save shp-write
+    npm install --save shp-write-client
 
 Or in a browser
 

@@ -1,6 +1,6 @@
 {
-  "name": "shp-write",
-  "version": "0.3.2",
+  "name": "shp-write-client",
+  "version": "1.0.0",
   "description": "write shapefiles from pure javascript",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mapbox/shp-write.git"
+    "url": "git://github.com/mapbox/shp-write-client.git"
   },
   "files": [
     "index.js",
@@ -25,14 +25,11 @@
   ],
   "author": "Tom MacWright",
   "contributors": [
-    {
-      "name": "Nick Baugh",
-      "email": "niftylettuce@gmail.com"
-    }
+   
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/mapbox/shp-write/issues"
+    "url": "https://github.com/mapbox/shp-write-client/issues"
   },
   "dependencies": {
     "dbf": "0.1.4",
